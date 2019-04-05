@@ -8,3 +8,5 @@ Paper list:
 Recovering low-rank matrices from few coefficients in any basis
 
 A simpler approach to matrix completion
+
+Completing Low-Rank Matrices with Corrupted Samples from Few Coefficients in General Basis
