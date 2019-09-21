@@ -15,3 +15,12 @@ sudo apt install python-rosinstall python-rosinstall-generator python-wstool bui
 sudo apt install rviz
 
 sudo apt install ros-melodic-interactive-markers
+
+###
+
+git clone https://github.com/PointCloudLibrary/pcl
+
+mkdir build && cd build
+
+cmake .. && make -j12 && sudo make install
+
