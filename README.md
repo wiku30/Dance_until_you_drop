@@ -1,5 +1,4 @@
 # Dance_until_you_drop
-This is a general-purposed repo of mine. Perhaps as a register of my mind.
 
 
 
