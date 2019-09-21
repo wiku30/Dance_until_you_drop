@@ -10,11 +10,8 @@ echo "source /opt/ros/melodic/setup.bash" >> ~/.bashrc
 
 source ~/.bashrc
 
-sudo apt install python-rosinstall python-rosinstall-generator python-wstool build-essential
+sudo apt install python-rosinstall python-rosinstall-generator python-wstool build-essential rviz ros-melodic-interactive-markers ros-melodic-interactive-markers libomp-dev ros-melodic-geometry ros-melodic-nav-msgs libsuitesparse-dev
 
-sudo apt install rviz
-
-sudo apt install ros-melodic-interactive-markers
 
 ###
 
@@ -24,10 +21,17 @@ mkdir build && cd build
 
 cmake .. && make -j12 && sudo make install
 
-sudo apt install ros-melodic-interactive-markers
+git clone https://github.com/RainerKuemmerle/g2o.git
 
-sudo apt install libomp-dev
+cd g2o
 
-sudo apt install ros-melodic-geometry
+mkdir build && cd build
 
+cmake .. -DCMAKE_BUILD_TYPE=RELEASE
 
+make -j12 && sudo make install
+
+###
+
+mkdir catkin_ws && mkdir catkin_ws/src && cd catkin_ws/src
+git clone https://github.com/koide3/ndt_omp.git
