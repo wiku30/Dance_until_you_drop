@@ -28,3 +28,6 @@ sudo apt install ros-melodic-interactive-markers
 
 sudo apt install libomp-dev
 
+sudo apt install ros-melodic-geometry
+
+
