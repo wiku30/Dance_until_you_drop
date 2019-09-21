@@ -24,3 +24,7 @@ mkdir build && cd build
 
 cmake .. && make -j12 && sudo make install
 
+sudo apt install ros-melodic-interactive-markers
+
+sudo apt install libomp-dev
+
