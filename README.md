@@ -1,6 +1,8 @@
 # Dance_until_you_drop
 
+http://math.stanford.edu/~vakil/216blog/FOAGjun1113public.pdf
 
+********************************************************************
 
 sudo apt-get install ros-melodic-desktop-full
 
