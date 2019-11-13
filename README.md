@@ -4,6 +4,10 @@ http://math.stanford.edu/~vakil/216blog/FOAGjun1113public.pdf
 
 ********************************************************************
 
+sudo apt-get install python-rosdep python-rosinstall-generator python-wstool python-rosinstall build-essential
+
+http://wiki.ros.org/melodic/Installation/Ubuntu
+
 sudo apt-get install ros-melodic-desktop-full
 
 sudo apt-get install ros-melodic-geodesy ros-melodic-pcl-ros ros-melodic-nmea-msgs ros-melodic-libg2o
