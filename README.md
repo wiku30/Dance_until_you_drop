@@ -4,7 +4,6 @@ http://math.stanford.edu/~vakil/216blog/FOAGjun1113public.pdf
 
 ********************************************************************
 
-sudo apt-get install python-rosdep python-rosinstall-generator python-wstool python-rosinstall build-essential
 
 http://wiki.ros.org/melodic/Installation/Ubuntu
 
