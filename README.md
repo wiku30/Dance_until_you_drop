@@ -1,6 +1,22 @@
 # Dance_until_you_drop
 
-http://math.stanford.edu/~vakil/216blog/FOAGjun1113public.pdf
+
+https://ieeexplore.ieee.org/abstract/document/8619433
+
+https://ieeexplore.ieee.org/abstract/document/7995971
+
+https://ieeexplore.ieee.org/abstract/document/7962970
+
+http://openaccess.thecvf.com/content_ECCV_2018/html/Liangyan_Gui_Adversarial_Geometry-Aware_Human_ECCV_2018_paper.html
+
+https://www.aaai.org/ojs/index.php/AAAI/article/view/4859
+
+https://par.nsf.gov/servlets/purl/10090226
+
+https://ieeexplore.ieee.org/abstract/document/7963572
+
+https://arxiv.org/pdf/1604.07446.pdf
+
 
 ********************************************************************
 
